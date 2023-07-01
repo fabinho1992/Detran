@@ -1,0 +1,46 @@
+body{
+    background: gray
+}
+
+h1{
+    color: rgb(39, 36, 36);
+    background: rgb(130, 130, 216);
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 7px 7px 7px rgb(80, 75, 75);
+}
+
+p{
+    font: normal 1rem arial;
+}
+
+input{
+    border: none;
+    padding: 0.6rem;
+    text-align: center;
+    border-radius: 5px;
+    outline: none;
+    font-size: 1rem;
+}
+
+button{
+    border: none;
+    padding: 0.6rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(47, 47, 252);
+    color: #fff;
+}
+
+.buttonCancel{
+    border: none;
+    padding: 0.6rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: rgb(240, 31, 7);
+    color: #fff;
+}
